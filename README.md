@@ -3,7 +3,7 @@ Passgen is a stateless password manager. Feed it with a site and a masster passw
 
 ## Installation
  1. Install [Deno](https://deno.land/).
- 2. Run `deno install -n passgen URL`
+ 2. Run `deno install -n passgen https://raw.githubusercontent.com/servusdei2018/passgen/main/main.ts`
  3. You're all set. Passgen should now be ready to rock.
 
 ## Usage
